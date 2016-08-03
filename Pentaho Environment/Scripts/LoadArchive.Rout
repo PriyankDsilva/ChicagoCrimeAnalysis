@@ -1,0 +1,12 @@
+[1] TRUE
+[1] TRUE
+[1] TRUE
+[1] TRUE
+  adding: Crimes.csv (deflated 76%)
+  adding: IUCR_Codes.xls (deflated 73%)
+  adding: Police_Stations.xls (deflated 79%)
+  adding: Senior_Centers.xls (deflated 70%)
+[1] TRUE
+> proc.time()
+   user  system elapsed 
+   0.25    0.03    1.95 
